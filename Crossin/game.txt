@@ -1,1 +1,3 @@
-4 2 16
+peter 3 7 22
+jerry 1 2 2
+jacky 2 5 11
